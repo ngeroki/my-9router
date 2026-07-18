@@ -1,0 +1,12 @@
+{
+  "name": "my-9router",
+  "version": "1.0.0",
+  "description": "9Router node deployment",
+  "main": "index.js",
+  "scripts": {
+    "start": "9router"
+  },
+  "dependencies": {
+    "9router": "^0.4.37"
+  }
+}
